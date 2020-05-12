@@ -1,0 +1,25 @@
+{
+  "name": "tare_npm_ex",
+  "version": "0.1.0",
+  "description": "Mi primer seerver\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[3~\u001b[\u001b[C\u001b[C\u001b[C\u001b[Cerver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enriquemosso65/NPM-Express-TareaSI.git"
+  },
+  "keywords": [
+    "ico"
+  ],
+  "author": "Chimal Mosso Jesus Enrique",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enriquemosso65/NPM-Express-TareaSI/issues"
+  },
+  "homepage": "https://github.com/enriquemosso65/NPM-Express-TareaSI#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
